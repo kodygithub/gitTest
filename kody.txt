@@ -5,3 +5,4 @@ anyway , he enjoy his live no matter what the fucking trouble with.yet.
 这是被我修改过的一行。
 我又来修改一刚
 ，，测试撤销问题
+这是一条关联了github之后，添加的测试内容。
